@@ -1,0 +1,8 @@
+res://player.tscn
+res://characters/happy_boo/happy_boo.tscn
+res://player.gd
+res://gamemap.tscn
+res://tree.tscn
+res://Mob.gd
+res://mob.tscn
+res://characters/slime/slime.tscn
